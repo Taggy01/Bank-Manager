@@ -1,0 +1,107 @@
+[
+  {
+    "username": "Aditya",
+    "accountNo": 123456789,
+    "balance": 55100,
+    "transaction": [
+      {
+        "Type": "Credited",
+        "Amount": 30,
+        "Time": "22-07-2025"
+      },
+      {
+        "Type": "Credited",
+        "Amount": 1200,
+        "Time": "25-07-2025"
+      },
+      {
+        "Type": "Credited",
+        "Amount": 100,
+        "Time": "25 07 2025"
+      }
+    ]
+  },
+  {
+    "username": "Ashish",
+    "accountNo": 789456123,
+    "balance": 39975,
+    "transaction": [
+      {
+        "Type": "Debited",
+        "Amount": 25,
+        "Time": "22 07 2025"
+      }
+    ]
+  },
+  {
+    "username": "Ashish Sahay",
+    "accountNo": 69696969,
+    "balance": 15005,
+    "transaction": [
+      {
+        "Type": "Credited",
+        "Amount": 15000,
+        "Time": "23 07 2025"
+      }
+    ]
+  },
+  {
+    "username": "Vinit Kumar Mandal",
+    "accountNo": 369258147,
+    "balance": 30,
+    "transaction": []
+  },
+  {
+    "username": "mantosh",
+    "accountNo": 70506553,
+    "balance": 1000,
+    "transaction": []
+  },
+  {
+    "username": "Aditya Kumar",
+    "accountNo": 12341234,
+    "balance": 7050,
+    "transaction": [
+      {
+        "Type": "Credited",
+        "Amount": 200,
+        "Time": "22 07 2025"
+      }
+    ]
+  },
+  {
+    "username": "Abhi",
+    "accountNo": 112233445,
+    "balance": 5000,
+    "transaction": []
+  },
+  {
+    "username": "Abhishek",
+    "accountNo": 11442255,
+    "balance": 4500,
+    "transaction": []
+  },
+  {
+    "username": "Vivek",
+    "accountNo": 11559966,
+    "balance": 6020,
+    "transaction": []
+  },
+  {
+    "username": "Shubham Kumar",
+    "accountNo": 9576074162,
+    "balance": 11700,
+    "transaction": []
+  },
+  {
+    "username": "Asmit",
+    "accountNo": 1001234,
+    "balance": 1100
+  },
+  {
+    "username": "Asmit srivastava",
+    "accountNo": 123456787,
+    "balance": 10000,
+    "transcation": []
+  }
+]
